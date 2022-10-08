@@ -24,7 +24,7 @@ A&F è un gestionale di automezzi e filiali di un'azienda. Questo progetto è st
 
 ## Requisiti
 
-Realizzare un'applicazione web che gestisca gli automezzi e le filiali di un'azienda.
+Lo scopo della prova è realizzare un'applicazione web che gestisca gli automezzi e le filiali di un'azienda.
 
 Ogni automezzo è caratterizzato da un codice, dalla targa, da marca e modello. Ogni filiale è caratterizzata da un codice, da un indirizzo, dalla città e dal CAP.
 
@@ -47,7 +47,7 @@ Di ogni automezzo si conosce la filiale, una filiale può ospitare più automezz
 
 ## Tecnologie utilizzate
 
-A&F è Blogsonic è stato realizzato usando i seguenti strumenti e tecnologie:
+A&F è stato realizzato usando i seguenti strumenti e tecnologie:
 
 -   Front-end:
     -   HTML (template engine: Smarty 4.2.1);
@@ -141,5 +141,5 @@ Per maggiori informazioni, visita il [sito web di Creative Commons][5].
 [3]: https://randomkeygen.com/ 'RandomKeygen'
 [4]: https://github.com/antogno/af/blob/master/LICENSE 'License'
 [5]: https://creativecommons.org/publicdomain/zero/1.0/ 'Creative Commons'
-[6]: https://github.com/antogno/blogsonic 'A&F - GitHub'
+[6]: https://github.com/antogno/af 'A&F - GitHub'
 [7]: https://www.linkedin.com/in/antonio-granaldi/ 'Antonio Granaldi - Linkedin'
