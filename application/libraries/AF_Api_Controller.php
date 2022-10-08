@@ -11,7 +11,10 @@ class AF_Api_Controller extends AF_Controller {
         $this->output
             ->set_content_type('application/json')
             ->set_status_header(200)
-            ->set_output(json_encode($this->{static::MODEL}->getRows(), JSON_FORCE_OBJECT)
+            ->set_output(json_encode([
+                'success' => true,
+                'data' => $this->{static::MODEL}->getRows()
+            ], JSON_FORCE_OBJECT)
         );
     }
 
