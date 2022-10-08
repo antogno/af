@@ -1,0 +1,22 @@
+{
+	"name": "antogno/af",
+	"description": "Gestionale di automezzi e filiali di un'azienda",
+	"type": "project",
+	"license": "CC0-1.0",
+	"authors": [
+		{
+			"name": "Antonio Granaldi",
+			"email": "tonio.granaldi@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=7.1"
+	},
+	"suggest": {
+		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+	},
+	"require-dev": {
+		"mikey179/vfsstream": "1.6.*",
+		"phpunit/phpunit": "4.* || 5.* || 9.*"
+	}
+}
