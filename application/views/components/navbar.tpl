@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-sm bg-light p-2">
-	<a class="navbar-brand" href="/">
+	<a class="navbar-brand text-primary" href="/">
 		<img src="../../assets/images/logo.png" alt="{$app_name}" height="30px">
 	</a>
 
